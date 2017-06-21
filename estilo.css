@@ -1,0 +1,77 @@
+@import
+url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+
+html, button  {
+   font-family: 'Open Sans',sans-serif;
+}
+button {
+   background-color: transparent;
+   color: white;
+   font-weight: bolder;
+}
+
+h1, p {
+  font-weight: lighter;
+}
+
+h1 {
+  font-size:24px;
+}
+ .paragrafo1 {
+  font-size:64px;
+}
+  .paragrafo2{
+  font-size:24px;
+}
+h2 {
+  font-size:48px;
+  font-size:bold;
+}
+
+header {
+  background-color: #7f8c8d;
+  color: white;
+  background-image: url(greves.jpg);
+  height: 500px
+}
+
+.vermelha {
+background-color: #cf2227;
+color: white;
+
+}
+.branco {
+  color: #cf2227;
+}
+
+  header,section,footer {
+  padding: 20px 20px 70px 20px;
+}
+
+body,p {
+  margin:0;
+}
+ul {
+  list-style-type: none;
+  padding-left:0;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
+}
+
+li {
+  display: inline;
+  padding: 5px
+}
+
+img {
+  width: 750px;
+  margin: auto;
+  display: block;
+}
+nav{
+  margin-bottom: 300px
+}
